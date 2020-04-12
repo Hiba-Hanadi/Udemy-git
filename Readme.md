@@ -1,3 +1,3 @@
-##Git & GitHub
+##Inroduction to Git & GitHub
 ### Hiba Chinuiya  'Hiba Benhaddia'
 note: Thanks Amani  ...
